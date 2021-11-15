@@ -1,3 +1,4 @@
+These are the steps to push code to git repo:
 git status
 git add
 git commit
